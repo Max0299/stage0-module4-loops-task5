@@ -9,7 +9,7 @@ public class Rectangle {
                 }else if(j == 1 || j == height){
                     System.out.print("8");
                 }else {
-                    System.out.print("  ");
+                    System.out.print(" ");
                 }
             }
             System.out.println();

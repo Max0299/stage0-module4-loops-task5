@@ -10,7 +10,7 @@ public class Square {
                 }else if(j == 1 || j == sideLength){
                     System.out.print("8");
                 }else {
-                    System.out.print("  ");
+                    System.out.print(" ");
                 }
             }
             System.out.println();

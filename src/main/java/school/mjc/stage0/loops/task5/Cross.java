@@ -9,7 +9,7 @@ public class Cross {
                 }else if(j == (sideLength+1)/2){
                     System.out.print("8");
                 }else {
-                    System.out.print("  ");
+                    System.out.print(" ");
                 }
             }
             System.out.println();
