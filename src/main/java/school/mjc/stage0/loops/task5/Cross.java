@@ -5,9 +5,9 @@ public class Cross {
         for(int i = 1;i<=sideLength;i++){
             for(int j = 1;j<=sideLength;j++){
                 if(i == (sideLength+1)/2){
-                    System.out.print("8 ");
+                    System.out.print("8");
                 }else if(j == (sideLength+1)/2){
-                    System.out.print("8 ");
+                    System.out.print("8");
                 }else {
                     System.out.print("  ");
                 }

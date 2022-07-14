@@ -5,9 +5,9 @@ public class Rectangle {
         for(int i = 1;i<=length;i++){
             for(int j = 1;j<=height;j++){
                 if(i == 1 || i == length){
-                    System.out.print("8 ");
+                    System.out.print("8");
                 }else if(j == 1 || j == height){
-                    System.out.print("8 ");
+                    System.out.print("8");
                 }else {
                     System.out.print("  ");
                 }
